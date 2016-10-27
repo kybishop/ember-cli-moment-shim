@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/jasonmit/ember-cli-moment-shim",
   "dependencies": {
-    "broccoli-funnel": "^1.0.0",
+    "broccoli-funnel": "^1.0.8",
     "broccoli-merge-trees": "^1.0.0",
     "broccoli-stew": "^1.0.0",
     "chalk": "^1.1.1",
