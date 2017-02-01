@@ -22,7 +22,7 @@ import moment from 'moment';
 
 ## Upgrading
 
-Whenever an upgrading ember-cli-moment-shim, be sure to rerun the generator manually if not installed via `ember install`.  To do this, `ember g ember-cli-moment-shim`
+Whenever upgrading ember-cli-moment-shim, be sure to rerun the generator manually if not installed via `ember install`.  To do this, `ember g ember-cli-moment-shim`
 
 ## Enabling moment-timezone
 
